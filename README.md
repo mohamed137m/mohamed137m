@@ -1,13 +1,20 @@
 <!-- Header -->
 <h2 align="center">👋 Hi, I'm Mohamed Reda</h2>
 <h3 align="center">🚀 Flutter Developer | 🤖 AI Engineer | 🛡️ Software Testing Enthusiast</h3>
+
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Smart+Apps;Loves+AI+%26+Machine+Learning;Quality+is+my+First+Priority;Always+Learning+and+Evolving">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Smart+Apps;AI+%26+Machine+Learning+Explorer;Quality+is+my+First+Priority;Always+Learning+and+Evolving">
 </p>
 
+---
 
-
+<!-- About Me -->
+### 💡 About Me
+- 🔭 Currently building **BisLearnHub** – An AI-powered educational platform.  
+- 🌱 Learning more about **AI, Machine Learning, and Software Testing**.  
+- 💬 Ask me about **Flutter, Dart, Backend Development, and App Testing**.  
+- 🎯 Goal: To build **innovative apps** that solve real-world problems.  
 
 ---
 
@@ -23,7 +30,7 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/e4/26/90/e42690f87d2fb3f8a04f3f6b4f1fa3b2.gif"  />
 
 <!-- Skills -->
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
   <img width="12"/>
@@ -49,7 +56,7 @@
 ---
 
 <!-- Connect -->
-<h3>🌐 Connect with me:</h3>
+### 🌐 Connect with me:
 <div align="left">
   <a href="https://www.youtube.com/@CodeCraftAr" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
