@@ -26,10 +26,42 @@
 ---
 
 <!-- Skills -->
-<h3>🛠 Tech Stack</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cs,cpp,git,github,linux" height="50"/>
-</div>
+<h3>🛠 Tech Stack & Skills</h3>
+
+#### 📱 Flutter Development
+- Dart programming (OOP)  
+- State management (Provider, Riverpod, BLoC)  
+- RESTful APIs integration  
+- Firebase (Auth, Firestore, Notifications)  
+- Clean Architecture & SOLID Principles  
+- Design Patterns (Singleton, Factory, MVC, MVVM)  
+- UI design & animations  
+
+#### 🧠 Artificial Intelligence
+- Machine Learning (Supervised, Unsupervised, Reinforcement)  
+- Deep Learning (ANN, CNN, RNN)  
+- NLP (Natural Language Processing)  
+- Computer Vision  
+- TensorFlow & PyTorch  
+- Data Preprocessing & Visualization  
+- Model Deployment  
+
+#### 💡 Programming & Problem Solving
+- C++, C#, Python, Java  
+- Data Structures & Algorithms  
+- Competitive Programming (Codeforces)  
+
+#### 🛡️ Software Testing
+- Testing Throughout the Software Development Life Cycle  
+- Static Testing Techniques  
+- Test Tools (Selenium, Postman)  
+- Test Analysis & Design  
+- Managing Test Activities  
+- Prompt Engineering  
+
+#### ⚙️ Tools & Version Control
+- Git & GitHub  
+- Postman (API testing)  
 
 ---
 
