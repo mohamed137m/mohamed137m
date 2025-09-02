@@ -47,7 +47,8 @@
 ###
 
 <br clear="both">
-
+outputs: dist/snake.svg?palette=github-dark
 <img src="https://raw.githubusercontent.com/mohamed137m/mohamed137m/output/snake.svg" alt="Snake animation" />
+
 
 ###
