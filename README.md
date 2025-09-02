@@ -1,11 +1,13 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Mohamed Reda</h1>
-<h3 align="center">🚀 Flutter Developer | 🤖 AI Engineer | 🛠 Software Testing Enthusiast from Egypt</h3>
-
+<h2 align="center">👋 Hi, I'm Mohamed Reda</h2>
+<h3 align="center">🚀 Flutter Developer | 🤖 AI Engineer | 🛡️ Software Testing Enthusiast</h3>
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&lines=Passionate+Flutter+Developer;AI+%26+ML+Enthusiast;Backend+Engineer;Open+Source+Lover;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Smart+Apps;Loves+AI+%26+Machine+Learning;Quality+is+my+First+Priority;Always+Learning+and+Evolving">
 </p>
+
+
+
 
 ---
 
