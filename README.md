@@ -30,10 +30,12 @@
 
 #### 📱 Flutter Development
 - Dart programming (OOP)  
-- State management (Provider, Riverpod, BLoC)  
-- RESTful APIs integration  
+- State management (Provider, Cubit, BLoC)
+- Api
+- Shared preferenc
 - Firebase (Auth, Firestore, Notifications)  
-- Clean Architecture & SOLID Principles  
+- Clean Architecture
+- SOLID Principles  
 - Design Patterns (Singleton, Factory, MVC, MVVM)  
 - UI design & animations  
 
